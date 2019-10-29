@@ -1,6 +1,7 @@
 from random import choice
 
 sleeping_pills = [1,2,3,4]
+
 def awake(t):
     minutes = 0
     while minutes<t:
